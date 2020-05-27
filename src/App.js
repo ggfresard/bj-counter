@@ -88,9 +88,9 @@ class App extends React.Component {
           style={{ opacity: this.state.sound ? 1 : 0.2 }}
         >
           {this.state.sound ? (
-            <i class="fas fa-volume-up"></i>
+            <i className="fas fa-volume-up"></i>
           ) : (
-            <i class="fas fa-volume-off"></i>
+            <i className="fas fa-volume-off"></i>
           )}
         </div>
       </div>
