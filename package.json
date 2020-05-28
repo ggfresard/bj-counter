@@ -18,7 +18,7 @@
     "test": "react-scripts test",
     "eject": "react-scripts eject",
     "heroku-postbuild": "npm run build",
-    "push": "git add . && git commit -m \"ay\" && git push origin master"
+    "push": "git add . && git commit -m \"--com\" && git push origin master"
   },
   "eslintConfig": {
     "extends": "react-app"
